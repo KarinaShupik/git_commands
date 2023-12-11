@@ -43,7 +43,7 @@
     justify-content: center;
 }
 
-.create_part, .observe_part, .second_column{
+.create_part, .observe_part, .second_column, .third_column{
     line-height: 30px;
 }
 
@@ -62,4 +62,8 @@
 
 .color_light-blue{
     color: rgb(72, 215, 110);
+}
+
+.color_green{
+    color: rgb(12, 127, 38);
 }
