@@ -43,7 +43,7 @@
     justify-content: center;
 }
 
-.create_part, .observe_part, .second_column, .third_column{
+.create_part, .observe_part, .second_column, .third_column, .fourth_column{
     line-height: 30px;
 }
 
@@ -66,4 +66,8 @@
 
 .color_green{
     color: rgb(12, 127, 38);
+}
+
+.color_orange{
+    color: rgb(216, 71, 18);
 }
