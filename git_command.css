@@ -43,7 +43,7 @@
     justify-content: center;
 }
 
-.create_part, .observe_part{
+.create_part, .observe_part, .second_column{
     line-height: 30px;
 }
 
@@ -58,4 +58,8 @@
 
 .color_dark-blue{
     color: blue;
+}
+
+.color_light-blue{
+    color: rgb(72, 215, 110);
 }
